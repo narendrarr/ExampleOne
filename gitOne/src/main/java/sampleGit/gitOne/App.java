@@ -1,6 +1,4 @@
 
-
-
 package sampleGit.gitOne;
 
 /**
