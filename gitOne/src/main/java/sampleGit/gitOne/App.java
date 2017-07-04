@@ -10,7 +10,7 @@ public class App
     public static void main( String[] args )
     {
     
-    	System.out.println("Welcome to Git Hub branch.");
+    	System.out.println("Welcome to Git Hub Echidna branch.");
     	System.out.println("");
     	
         }
